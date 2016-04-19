@@ -1,0 +1,27 @@
+header{
+    background-color: red;
+    width: 100%;
+    height: 15%;
+}
+
+article{
+    background-color: blue;
+    float: left;
+    width: 30%;
+}
+
+footer{
+    background-color: green;
+}
+aside{
+    background-color: orange;
+    float: left;
+    
+    
+}
+
+.cbody{
+    width: 100%;
+    height: 90;
+    background-color: purple;
+}
