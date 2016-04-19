@@ -7,7 +7,7 @@ header{
 article{
     background-color: blue;
     float: left;
-    width: 30%;
+    width: 40%;
 }
 
 footer{
@@ -16,6 +16,7 @@ footer{
 aside{
     background-color: orange;
     float: left;
+    width: 59%;
     
     
 }
